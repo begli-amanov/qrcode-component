@@ -49,10 +49,12 @@
     letter-spacing: 0;
     vertical-align: top;
     margin-bottom: 1rem;
+    color: #1f314f;
 }
 
 p {
     margin: 0;
+    color: #68778d;
 }
 
 img {
