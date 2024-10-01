@@ -1,6 +1,7 @@
 /* ==========================================================================
    Modern CSS resets: https://www.joshwcomeau.com/css/custom-css-reset/
-   ========================================================================== */
+   ==========================================================================
+*/
 
 /*
   1. Use a more-intuitive box-sizing model.
@@ -75,12 +76,12 @@ h6 {
 
 @font-face {
     font-family: "Outfit";
-    src: url(../assets/Outfit-Regular.woff2);
+    src: url("../assets/Outfit-Regular.woff2");
 }
 
 @font-face {
     font-family: "Outfit-Bold";
-    src: url(../assets/Outfit-Bold.woff2);
+    src: url("../assets/Outfit-Bold.woff2");
 }
 
 /* Variables */
