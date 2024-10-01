@@ -88,8 +88,8 @@ h6 {
 
 :root {
     --page-background: hsl(212, 45%, 89%);
-    --paragraph-font: 400 .9375rem/1.4 "Outfit", sans-serif;
-    --strong-font: 700 1.375rem/1.2 "Outfit-Bold", sans-serif;
+    --paragraph-font: 400 .9375rem/140% "Outfit", sans-serif;
+    --strong-font: 700 1.375rem/120% "Outfit-Bold", sans-serif;
     --card-brd-radius: 1.25rem;
     --img-brd-radius: .625rem;
     --card-padding: 1rem 1rem 2.5rem 1rem;
